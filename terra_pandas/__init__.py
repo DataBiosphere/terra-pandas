@@ -36,7 +36,7 @@ def dataframe_to_table(table_name: str,
         for _, series in df.iterrows():
             attributes = {"-".join(key) if isinstance(key, tuple) else key : val
                           for key, val in series[series.notna()].to_dict().items()}
-            writer.put_row((series.name, attributes))
+            writer.put_row((str(series.name), attributes))
 
 def anvil_index_object_transform(val: Any) -> str:
     if isinstance(val, dict):
