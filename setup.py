@@ -38,7 +38,7 @@ setup(
     description='Tools work with Terra data tables in Pandas',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/xbrianh/terra-pandas.git',
+    url='https://github.com/DataBiosphere/terra-pandas.git',
     author='Brian Hannafious',
     author_email='bhannafi@ucsc.edu',
     license='MIT',

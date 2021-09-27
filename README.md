@@ -64,8 +64,8 @@ Once tests pass, you can move to the release step
 If a release needs to be rolled back for some reason, please contact Brian Hannafious for help.
 
 ## Links
-Project home page [GitHub](https://github.com/xbrianh/terra-pandas)
+Project home page [GitHub](https://github.com/DataBiosphere/terra-pandas)
 Package distribution [PyPI](https://pypi.org/project/terra-pandas)
 
 ### Bugs
-Please report bugs, issues, feature requests, etc. on [GitHub](https://github.com/xbrianh/terra-pandas).
+Please report bugs, issues, feature requests, etc. on [GitHub](https://github.com/DataBiosphere/terra-pandas).
